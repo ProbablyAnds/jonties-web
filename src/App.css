@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.pageLayout {
+  height: 100vh;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background-color: blue; 
+}
+
