@@ -12,3 +12,5 @@ admin
 
 username: admin
 password: admin
+
+in a browser open http://localhost:3000
